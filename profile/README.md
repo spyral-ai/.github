@@ -12,7 +12,7 @@ We can do this by making ML development (training, inference, and incorporation 
 
 ## What we are doing
 
-We believe that the full potential of AI will help humanity to solve the most important problems and provide immesurable value to people's lives, but that this will only be possible when AI is more accessible and easier to use. Our version of the future is one in which anyone with a passion for innovation can contribute to the evolution of AI, or use it to solve any problem they are interested in.
+We think that the current trajectory of improvement that AI is on will allow humanity to solve the most important problems and provide immesurable value to people's lives, but that this will only be possible when AI is more accessible and easier to use. Our version of the future is one in which anyone with a passion for innovation can contribute to the evolution of AI, or use it to solve any problem they are interested in.
 
 To make this a reality, we are building the infrastructure to reduce the costs and complexity that currently stifle innovation. Our platform and tools will empower even small teams to train and deploy cutting-edge models at a fraction of the current cost and then to swiftly transition prototypes into production grade systems that create value for end users (or use them for research). We believe that htis will help in utilizing the collective potential of the global community, rather than the currently being limited to a few well-resourced companies, and push AI and science towards its highest potential.
 
